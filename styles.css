@@ -1,0 +1,48 @@
+.normal-textbox, .hidden-textbox{
+    font-family: "Arial Narrow";
+    font-size: large;
+    border-radius: 7px;
+    width: 95%;
+    margin-top: 5px;
+    height: 35px;
+}
+
+.hidden-textbox{
+    display: none;
+}
+
+.normal-textbox{
+    display: block;
+}
+
+.normal-checkbox{
+    font-family: "Arial Narrow";
+    font-size: large;
+    margin-top: 5px;
+}
+
+.error-textbox{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: red;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.title{
+    font-family: "Segoe UI";
+    font-weight: bold;
+    font-size: xx-large;
+    margin-bottom: 10px;
+    color: rgb(1, 66, 106);
+    text-align: center;
+}
+
+.subtitle{
+    font-family: "Segoe UI";
+    font-weight: bold;
+    text-align: center;
+}
