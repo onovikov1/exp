@@ -11,6 +11,7 @@
 <?php authCW(); ?>
 <?php callCW(); ?>
 <?php getAllowedVals('ACTIONCHOICES'); ?>
+//test comment
 <script>
 	function showCustFields(){
 		var problemSid = document.getElementById('problem').value;
